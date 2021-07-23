@@ -1,0 +1,38 @@
+E:\ELF 2\ELF Programmer\The Third Task v3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\ELF 2\ELF Programmer\The Third Task v3\bin\Debug\netcoreapp3.1\appsettings.json
+E:\ELF 2\ELF Programmer\The Third Task v3\bin\Debug\netcoreapp3.1\The Third Task v3.exe
+E:\ELF 2\ELF Programmer\The Third Task v3\bin\Debug\netcoreapp3.1\The Third Task v3.deps.json
+E:\ELF 2\ELF Programmer\The Third Task v3\bin\Debug\netcoreapp3.1\The Third Task v3.runtimeconfig.json
+E:\ELF 2\ELF Programmer\The Third Task v3\bin\Debug\netcoreapp3.1\The Third Task v3.runtimeconfig.dev.json
+E:\ELF 2\ELF Programmer\The Third Task v3\bin\Debug\netcoreapp3.1\The Third Task v3.dll
+E:\ELF 2\ELF Programmer\The Third Task v3\bin\Debug\netcoreapp3.1\The Third Task v3.pdb
+E:\ELF 2\ELF Programmer\The Third Task v3\bin\Debug\netcoreapp3.1\The Third Task v3.Views.dll
+E:\ELF 2\ELF Programmer\The Third Task v3\bin\Debug\netcoreapp3.1\The Third Task v3.Views.pdb
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\The Third Task v3.csproj.AssemblyReference.cache
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\The Third Task v3.AssemblyInfoInputs.cache
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\The Third Task v3.AssemblyInfo.cs
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\The Third Task v3.csproj.CoreCompileInputs.cache
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\The Third Task v3.MvcApplicationPartsAssemblyInfo.cache
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\The Third Task v3.RazorAssemblyInfo.cache
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\The Third Task v3.RazorAssemblyInfo.cs
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\staticwebassets\The Third Task v3.StaticWebAssets.Manifest.cache
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\staticwebassets\The Third Task v3.StaticWebAssets.xml
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\scopedcss\bundle\The Third Task v3.styles.css
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\The Third Task v3.TagHelpers.input.cache
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\The Third Task v3.TagHelpers.output.cache
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\The Third Task v3.RazorCoreGenerate.cache
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\The Third Task v3.RazorTargetAssemblyInfo.cache
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\The Third Task v3.RazorTargetAssemblyInfo.cs
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\The Third Task v3.Views.pdb
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\The Third Task v3.dll
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\The Third Task v3.pdb
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\The Third Task v3.genruntimeconfig.cache
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\The Third Task v3.csproj.CopyComplete
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\Razor\Pages\Friends.cshtml.g.cs
+E:\ELF 2\ELF Programmer\The Third Task v3\obj\Debug\netcoreapp3.1\Razor\Pages\Register.cshtml.g.cs

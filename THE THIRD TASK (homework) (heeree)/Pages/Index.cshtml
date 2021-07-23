@@ -1,0 +1,30 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Messenger";
+}
+
+
+@{
+    if (!Controller.isLogined)
+    {
+        <meta http-equiv="refresh" content="0;URL=/Register">        
+    }
+}
+
+
+
+
+<script>
+    function foo() {
+        var usl = '@Url.Action("/Friends")';
+        window.location.href = url.replace('__id__', id);
+    }
+</script>
+
+@for (int i = 0; i < 5; i++)
+{
+    <div class="text-center">
+        <h1 class="display-1">Welcome</h1>
+    </div>
+}
